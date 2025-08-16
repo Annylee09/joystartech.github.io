@@ -6,7 +6,7 @@
 
 ## 在线演示
 
-演示地址：[https://010.fktool.com](https://010.fktool.com)
+演示地址：[https://joystartech.com](https://joystartech.com)
 
 
 ## 开发环境
@@ -165,7 +165,7 @@ server {
 
 ## 付费咨询
 
-微信（Lengqin1024）
+微信（Lee）
 
 
 ## 常见问题
@@ -184,4 +184,4 @@ server {
 
 **4. 后台管理的默认账号密码是？**
 
-答：管理员账号密码是：admin123 / admin123
+答：管理员账号密码是：admin / 123456
